@@ -16,7 +16,7 @@
 
 Sou um estudante dedicado e entusiasta da Engenharia de Software, apaixonado por desafios e inovações tecnológicas. Atualmente, estou cursando Engenharia de Software em busca de aprimorar minhas habilidades técnicas e adquirir conhecimentos sólidos na área.
 
-Tenho uma sólida base em programação, com proficiência em diversas linguagens como Python e C++. Minha experiência inclui projetos práticos, nos quais pude aplicar conceitos teóricos aprendidos em sala de aula. Sou adepto das metodologias ágeis, acreditando na importância da colaboração eficaz, comunicação transparente e entrega contínua de software de qualidade.  
+Tenho uma sólida base em programação, com proficiência em diversas linguagens como Python. Minha experiência inclui projetos práticos, nos quais pude aplicar conceitos teóricos aprendidos em sala de aula. Sou adepto das metodologias ágeis, acreditando na importância da colaboração eficaz, comunicação transparente e entrega contínua de software de qualidade.  
   
 
 <br/>  
